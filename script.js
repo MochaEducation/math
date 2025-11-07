@@ -157,6 +157,10 @@ const games = [
     {
         title: "Papas Pizzeria",
         url: `${secondaryURL}/papaspizzeria`
+    },
+    {
+        title: "Papas Freezeria",
+        url: `${secondaryURL}/papasfreezeria`
     }
 ];
 
