@@ -154,6 +154,10 @@ const games = [
         title: "The Impossible Quiz",
         url: `${baseURL}/impossiblequiz`
     },
+    {
+        title: "Papas Pizzeria",
+        url: `${secondaryURL}/papaspizzeria`
+    }
 ];
 
 document.addEventListener('DOMContentLoaded', () => {
